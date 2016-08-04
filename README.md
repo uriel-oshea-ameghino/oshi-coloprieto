@@ -1,4 +1,4 @@
-# Integrantes
+﻿# Integrantes
 
-*Malfatti
-*Oshea
+* Malfatti
+* Oshea
