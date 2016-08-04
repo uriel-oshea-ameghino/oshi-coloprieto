@@ -1,6 +1,7 @@
 #Integrantes
 
-Makvic
-Prieto
-
+* Makvic
+* Prieto
+* Malfatti
+* Oshea
 
